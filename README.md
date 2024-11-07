@@ -2,6 +2,8 @@
 
 A simple calculator application built with Python and the Tkinter library. This project demonstrates basic arithmetic operations and includes a graphical user interface (GUI) for interaction. The calculator supports operations like addition, subtraction, multiplication, division, square root, square, and more.
 
+<img width=200px src="https://github.com/user-attachments/assets/93445507-7943-4d59-adfc-a5d11af95eca" />
+
 ## Features
 
 - Basic arithmetic operations: `+`, `-`, `×`, `÷`
