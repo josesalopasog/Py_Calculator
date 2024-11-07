@@ -1,0 +1,34 @@
+# Ignorar archivos .toc
+*.toc
+
+# Ignorar archivos comprimidos y empaquetados
+*.zip
+*.pkg
+
+# Ignorar archivos Python empaquetados
+*.pyz
+
+# Ignorar archivos de texto y HTML
+*.html
+
+# Ignorar carpetas de construcción y distribución
+/build/
+/dist/
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Archivos de entornos virtuales de Python
+venv/
+env/
+
+# Otros archivos temporales
+*.log
+*.swp
+*.bak
